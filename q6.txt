@@ -1,0 +1,4 @@
+1.No
+2.yes
+3.A does not change as in python, integers can not be mutated, so when its added, its actually creating a new integer. Howeve
+dictionaries can be mutated, so it updates b instead of making a new b

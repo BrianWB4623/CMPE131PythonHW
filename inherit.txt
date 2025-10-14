@@ -1,0 +1,6 @@
+One Reason Inheritance would be that way you can extend upon or override functions without completely rewriting them,
+for example, when working with a class such as Vehicles, You could have a basic drive function that jsut moves forward, But
+in a Car class, this function could also have press on gas pedal, or a bike class could have rotate pedals with force to drive
+
+Another reason to use inheritance would be so you dont have to define something over and over, for the same vehicle example
+you could have multiple types of vehicles, that are all using the Vehicle class to get basic attributes such as color, length, weight, etc
